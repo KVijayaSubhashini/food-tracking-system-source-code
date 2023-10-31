@@ -1,0 +1,3 @@
+this project contains how to track the food using blockchain technology.
+it's help to people to get the information of products.
+we are using metamask to deploy the program.
